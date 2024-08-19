@@ -18,6 +18,10 @@ For this challenge, we were asked to assume the role of a resource who works at 
 We created two classification models to fit the provided data, and evaluated which model is more accurate at detecting spam. The models we created were a logistic regression model and a random forest model.
 
 ## Files
+This repository contains four files:
+* `spam_detector.ipynb` - the file that contains the solution for the challenge. This is a Jupyter Notebook.
+* `spam_detector_orig.ipynb` - the original starter file for the challenge. This is for reference only.
+* `README.md` - a README file for the repo.
 
 ## Technical requirements
 The code for the Challenge is in `spam_detector.ipynb`. This file is a Jupyter Notebook and requires an appropriate jupyter, pandas, and python tooling installed. This can include environmental containers such a anaconda, etc. It can also be executed inside of an IDE such as Visual Studio Code. The code requires python 3.10 or greater.
