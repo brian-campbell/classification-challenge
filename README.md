@@ -1,4 +1,4 @@
-# AI Bootcamp - Classification Challenge - Module 6 Challenge
+# AI Bootcamp - Classification Challenge - Module 13 Challenge
 
 ## Table of Contents
 *  [**Overview**](#overview)
@@ -9,8 +9,13 @@
 *  [**Requirements and Solution**](#requirements-and-solution)
 
 ## Overview
+This repository contains the source code for the OSU AI Bootcamp classification challenge for Module 13. This challenge focuses classifying email as spam or not spam.
+
 
 ## Background
+For this challenge, we were asked to assume the role of a resource who works at an Internet Service Provider (ISP) and we've been tasked with improving the email filtering system for its customers. We've been provided with a dataset that contains information about emails, with two possible classifications: spam and not spam. The ISP wants me to take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails so it can filter them out of its customers' inboxes.
+
+We created two classification models to fit the provided data, and evaluated which model is more accurate at detecting spam. The models we created were a logistic regression model and a random forest model.
 
 ## Files
 
