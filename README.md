@@ -36,3 +36,4 @@ Alternatively it can be executed from within and IDE if the IDE is configured to
 
 
 ## Requirements and Solution
+All requirements are meet for each section/part. First, I took a guess on which of the two classification models would perform better. Then I created code to use a logistic regression model, tested and predicted, and looked at accuracy. Then I created a random forest classifier model, tested and predicted, and looked at accuracy. Lastly, I compared the two results and reflected on how the accuracies were compared to my originial prediction and suggested some reasons why it might be true.
